@@ -1,0 +1,15 @@
+
+.row {
+    display: flex;
+    gap: 40px;
+    justify-content: space-between;
+  }
+  
+  .accordion {
+    width: 800px;
+  }
+  body {
+    min-height: 100vh;
+    font-family: "Arimo", sans-serif;
+    font-optical-sizing: auto;
+  }
