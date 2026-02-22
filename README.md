@@ -5,21 +5,10 @@ Este repositório contém o código-fonte de um site estático para uma loja de 
 
 # 📌 Funcionalidades
 
-Página inicial com destaque para a loja.
-
-Página com informações sobre a loja.
-
-Página com artigos esportivo, cards informativos e botão de compra.
-
-Página com novidades.
+A página contém uma tela inicial com folders informativos, telas de informações sobre a loja e tela para visualização dos artigos esportivos.
 
 
 # ✅ Melhorias Futuras
 
-Melhoria no layout e páginas.
-
-Adicionar JavaScript para interações com os botões de compra.
-
-Implementar carrinho de compras.
-
-Filtro de produtos por categoria
+Como esse foi um desenvolvimento que fiz a um tempo atrás, futuramente penso em reformula-lo, adicionando carrinho de compras, botões responsivos, melhora no layout...
+Além de adicionar Java Script, React e, quem sabe, integrar com Banco de Dados.
