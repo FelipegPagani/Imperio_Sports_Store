@@ -1,6 +1,8 @@
-# 🏆 # Loja de Artigos Esportivos
+# 🏆 Loja de Artigos Esportivos
 
-Este repositório contém o código-fonte de um site estático para uma loja de artigos esportivos, desenvolvido a um tempo por mim, utilizando apenas HTML e CSS.
+Este repositório contém o código-fonte de um site estático para uma loja de artigos esportivos, utilizando apenas HTML e CSS.
+
+Este desenvolvimento foir realizado po mim a um tempo atrás, quando estudava no IFSC. Futuramente irei remodela-lo.
 
 
 # 📌 Funcionalidades
